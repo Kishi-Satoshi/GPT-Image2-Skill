@@ -1,0 +1,16 @@
+{
+  "name": "kishi-skills",
+  "description": "Kishi-Satoshi's personal Claude Code plugins.",
+  "owner": {
+    "name": "Kishi-Satoshi",
+    "url": "https://github.com/Kishi-Satoshi"
+  },
+  "plugins": [
+    {
+      "name": "gpt-image",
+      "source": "./",
+      "description": "Generate and edit images with OpenAI gpt-image-2 via a bundled CLI.",
+      "version": "0.1.0"
+    }
+  ]
+}

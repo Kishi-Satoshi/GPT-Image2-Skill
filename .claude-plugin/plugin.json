@@ -1,0 +1,13 @@
+{
+  "name": "gpt-image",
+  "description": "Generate and edit images with OpenAI's gpt-image-2 model: text-to-image, reference-image editing, and mask-based inpainting via a bundled CLI script.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Kishi-Satoshi",
+    "url": "https://github.com/Kishi-Satoshi"
+  },
+  "homepage": "https://github.com/Kishi-Satoshi/GPT-Image2-Skill",
+  "repository": "https://github.com/Kishi-Satoshi/GPT-Image2-Skill",
+  "license": "MIT",
+  "keywords": ["gpt-image-2", "openai", "image-generation", "image-editing"]
+}
